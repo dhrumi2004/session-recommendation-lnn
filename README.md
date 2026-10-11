@@ -8,6 +8,8 @@ Models are implemented in PyTorch. The LTC variant uses `ncps`.
 For a plain-language walkthrough of the project structure, data preparation,
 models, commands, evaluation, and limitations, see [PROJECT_GUIDE.md](PROJECT_GUIDE.md).
 For a shareable, printable version, see [PROJECT_OVERVIEW.pdf](PROJECT_OVERVIEW.pdf).
+For complete clone, dataset, training, and Terminal instructions for
+collaborators, see [FRIEND_SETUP.md](FRIEND_SETUP.md).
 
 ## Phase 1 and 2 status
 
