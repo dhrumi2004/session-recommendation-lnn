@@ -5,6 +5,9 @@ visitor's recent clickstream session. The planned models are a popularity
 baseline, a GRU recommender, and a Liquid Time-Constant (LTC) recommender.
 Models are implemented in PyTorch. The LTC variant uses `ncps`.
 
+For a plain-language walkthrough of the project structure, data preparation,
+models, commands, evaluation, and limitations, see [PROJECT_GUIDE.md](PROJECT_GUIDE.md).
+
 ## Phase 1 and 2 status
 
 - Python 3.10 project environment and scaffold are ready.
